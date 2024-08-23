@@ -1,4 +1,4 @@
-# package_name
+# gustavo-image-processor
 
 Description. 
 The package gustavo-image-processor is used to:
