@@ -1,0 +1,7 @@
+README.md
+setup.py
+gvicencotti_image_processor.egg-info/PKG-INFO
+gvicencotti_image_processor.egg-info/SOURCES.txt
+gvicencotti_image_processor.egg-info/dependency_links.txt
+gvicencotti_image_processor.egg-info/requires.txt
+gvicencotti_image_processor.egg-info/top_level.txt

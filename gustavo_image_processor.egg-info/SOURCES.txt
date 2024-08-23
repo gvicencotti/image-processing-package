@@ -1,0 +1,14 @@
+README.md
+setup.py
+gustavo_image_processor/__init__.py
+gustavo_image_processor.egg-info/PKG-INFO
+gustavo_image_processor.egg-info/SOURCES.txt
+gustavo_image_processor.egg-info/dependency_links.txt
+gustavo_image_processor.egg-info/requires.txt
+gustavo_image_processor.egg-info/top_level.txt
+gustavo_image_processor/processing/__init__.py
+gustavo_image_processor/processing/combination.py
+gustavo_image_processor/processing/transformation.py
+gustavo_image_processor/utils/__init__.py
+gustavo_image_processor/utils/io.py
+gustavo_image_processor/utils/plot.py
